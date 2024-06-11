@@ -14,9 +14,9 @@ My journey through IT Support, Networking and Linux have spiked my interest in S
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SQL | <a href="https://github.com/Matt4llan/SQL">SQL Filters</a>|
-| Docker | <a href="https://github.com/stars/Matt4llan/lists/docker">Docker</a>|
-| Ansible | <a href="https://github.com/Matt4llan/Ansible-Basic-Playbook">Ansible</a>|
+| SQL | <a href="https://github.com/MattAllan1/SQL">SQL Filters</a>|
+| Docker | <a href="https://github.com/stars/MattAllan1/lists/docker">Docker</a>|
+| Ansible | <a href="https://github.com/MattAllan1/Ansible-Basic-Playbook">Ansible</a>|
 
 ## Tools
 
@@ -32,13 +32,6 @@ My journey through IT Support, Networking and Linux have spiked my interest in S
     <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-</div>
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -49,8 +42,9 @@ My journey through IT Support, Networking and Linux have spiked my interest in S
 </div>
 
 ## Projects
-- <a href="https://github.com/Matt4llan/SQL">SQL Filters</a>
-- <a href="https://github.com/Matt4llan/Docker-Basic">Docker Basic</a>
-- <a href="https://github.com/Matt4llan/docker-nginx">Docker Nginx</a>
-- <a href="https://github.com/Matt4llan/Docker-AWS">Docker AWS</a>
-- <a href="https://github.com/Matt4llan/Ansible-Basic-Playbook">Ansible</a>
+- <a href="https://github.com/MattAllan1/SQL">SQL Filters</a>
+- <a href="https://github.com/MattAllan1/Docker-Basic">Docker Basic</a>
+- <a href="https://github.com/MattAllan1/Docker-WordPress">Docker Wordpress</a>
+- <a href="https://github.com/MattAllan1/Docker-Nginx">Docker Nginx</a>
+- <a href="https://github.com/MattAllan1/Docker-AWS">Docker AWS</a>
+- <a href="https://github.com/MattAllan1/Ansible-Basic-Playbook">Ansible</a>
