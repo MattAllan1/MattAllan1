@@ -40,6 +40,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in S
 
 ## Certifications
 <div>
+    <img src="https://img.shields.io/badge/Microsoft-Azure%20Foundations-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/Cisco-CCENT%20ICND1%20-006BA4?style=for-the-badge&logo=cisco&logoColor=white" />
