@@ -14,6 +14,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in S
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Azure | <a href="https://github.com/stars/MattAllan1/lists/azure">Azure</a>|
 | SQL | <a href="https://github.com/MattAllan1/SQL">SQL Filters</a>|
 | Docker | <a href="https://github.com/stars/MattAllan1/lists/docker">Docker</a>|
 | Ansible | <a href="https://github.com/MattAllan1/Ansible-Basic-Playbook">Ansible</a>|
