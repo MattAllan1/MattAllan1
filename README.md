@@ -47,6 +47,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in S
     <img src="https://img.shields.io/badge/Ethical%20Hacking-Certified-32CD32?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Introduction%20To%20Ethical%20Hacking-Certified-32CD32?style=for-the-badge" />
     <img src="https://img.shields.io/badge/cPanel%20Professional%20(CPP)-Certified-32CD32?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ITIL%20V3-Foundation-008B8B?style=for-the-badge" />
 </div>
 
 ## Projects
