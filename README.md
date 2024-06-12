@@ -31,7 +31,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in S
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=Vim&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-SFTP-007ACC?style=for-the-badge&logo=SFTP&logoColor=white" />
@@ -42,7 +42,7 @@ My journey through IT Support, Networking and Linux have spiked my interest in S
 <div>
     <img src="https://img.shields.io/badge/Microsoft-Azure%20Foundations-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
     <img src="https://img.shields.io/badge/Cisco-CCENT%20ICND1%20-006BA4?style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/Ethical%20Hacking-Certified-32CD32?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Introduction%20To%20Ethical%20Hacking-Certified-32CD32?style=for-the-badge" />
